@@ -1,0 +1,4 @@
+*.class
+*.out
+*.log
+.DS_Store
